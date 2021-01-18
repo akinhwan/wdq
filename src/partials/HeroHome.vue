@@ -8,8 +8,8 @@
 
           <!-- Content -->
           <div class="md:col-span-7 lg:col-span-7 mb-8 md:mb-0 text-center md:text-left">
-            <h1 class="h1 lg:text-6xl mb-4 font-red-hat-display font-extrabold" data-aos="fade-down">Your website, reimagined</h1>
-            <p class="text-xl text-gray-600 dark:text-gray-400" data-aos="fade-down" data-aos-delay="150">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+            <h1 class="h1 lg:text-6xl mb-4 font-red-hat-display font-extrabold" data-aos="fade-down">Speedruns of workflows</h1>
+            <p class="text-xl text-gray-600 dark:text-gray-400" data-aos="fade-down" data-aos-delay="150">Can you beat the fastest record time for completing your workflow?</p>
             <!-- CTA form -->
             <form class="mt-8" data-aos="fade-down" data-aos-delay="300">
               <div class="flex flex-col sm:flex-row justify-center max-w-sm mx-auto sm:max-w-md md:mx-0">

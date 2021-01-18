@@ -17,7 +17,7 @@
               <!-- Title and excerpt -->
               <div class="text-center md:text-left">
                 <router-link to="/blog-post">
-                  <h1 class="h1 font-red-hat-display mb-4">Appy launches new thematic solutions</h1>
+                  <h1 class="h1 font-red-hat-display mb-4">Workspeed launches new thematic solutions</h1>
                 </router-link>
                 <p class="text-xl text-gray-600 dark:text-gray-400">Curious about how your favorite product was created? Hear from the team about how it was built, and how continued improvements are made.</p>
               </div>

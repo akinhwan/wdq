@@ -47,7 +47,7 @@
                 <article class="p-6 bg-white dark:bg-gray-800 shadow-2xl flex flex-col">
                   <header>
                     <h3 class="h4 font-red-hat-display mb-1">
-                      <a href="#0">Launched Appy Business</a>
+                      <a href="#0">Launched Workspeed Business</a>
                     </h3>
                   </header>
                   <div class="text-gray-600 dark:text-gray-400 flex-grow">
@@ -171,7 +171,7 @@
                 <article class="p-6 bg-white dark:bg-gray-800 shadow-2xl flex flex-col">
                   <header>
                     <h3 class="h4 font-red-hat-display mb-1">
-                      <a href="#0">Launched Appy Business</a>
+                      <a href="#0">Launched Workspeed Business</a>
                     </h3>
                   </header>
                   <div class="text-gray-600 dark:text-gray-400 flex-grow">

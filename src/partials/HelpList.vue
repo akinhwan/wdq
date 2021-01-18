@@ -210,7 +210,7 @@
                 <div class="pl-6">
                   <header>
                     <h3 class="font-red-hat-display text-xl font-extrabold tracking-tighter mb-1">
-                      <a href="#0">Connect a custom domain on Appy</a>
+                      <a href="#0">Connect a custom domain on Workspeed</a>
                     </h3>
                   </header>
                   <p class="text-gray-600 dark:text-gray-400">

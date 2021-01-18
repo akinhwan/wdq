@@ -18,7 +18,7 @@
 
             <!-- Page header -->
             <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-              <h1 class="h1 font-red-hat-display mb-4">Get started with Appy in seconds</h1>
+              <h1 class="h1 font-red-hat-display mb-4">Get started with Workspeed in seconds</h1>
               <p class="text-xl text-gray-600 dark:text-gray-400">We'll send you a text with a link to download the app.</p>
             </div>
 
@@ -62,7 +62,7 @@
                     <label class="block text-gray-800 dark:text-gray-300 text-sm font-medium" for="message">Details</label>
                     <span class="text-sm text-gray-500">Optional</span>
                   </div>
-                  <textarea id="message" rows="4" class="form-textarea w-full" placeholder="What do you want to build with Appy?"></textarea>
+                  <textarea id="message" rows="4" class="form-textarea w-full" placeholder="What do you want to build with Workspeed?"></textarea>
                 </div>
               </div>
               <div class="flex flex-wrap -mx-3 mb-5">

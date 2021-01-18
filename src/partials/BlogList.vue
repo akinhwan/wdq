@@ -23,7 +23,7 @@
                   </router-link>
                   <router-link class="hover:underline" to="/blog-post">
                     <h3 class="h4 font-red-hat-display mb-2">
-                      How to create a profile page using Appy
+                      How to create a profile page using Workspeed
                     </h3>
                   </router-link>
                 </header>
@@ -215,7 +215,7 @@
                   <article>
                     <router-link class="hover:underline" to="/blog-post">
                       <h3 class="font-red-hat-display font-bold tracking-tight mb-1">
-                        Don’t miss Appy’s exclusive workshop with our CEO
+                        Don’t miss Workspeed’s exclusive workshop with our CEO
                       </h3>
                     </router-link>
                     <div class="text-sm text-gray-500">

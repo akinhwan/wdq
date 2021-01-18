@@ -17,7 +17,7 @@
             <header class="mb-8">
               <!-- Title and excerpt -->
               <div class="text-center md:text-left">
-                <h1 class="h1 font-red-hat-display mb-4" data-aos="fade-down">Appy launches new thematic solutions</h1>
+                <h1 class="h1 font-red-hat-display mb-4" data-aos="fade-down">Workspeed launches new thematic solutions</h1>
                 <p class="text-xl text-gray-600 dark:text-gray-400" data-aos="fade-down" data-aos-delay="150">Curious about how your favorite product was created? Hear from the team about how it was built, and how continued improvements are made.</p>
               </div>
               <!-- Article meta -->

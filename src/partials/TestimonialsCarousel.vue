@@ -81,7 +81,7 @@ export default {
       items: [
         {
           quote:
-            '“ When we first met Appy, we were skeptical. We tried lots of things before and none of them worked. But, when we tested the Shape Builder it just perfect for our needs. “',
+            '“ When we first met Workspeed, we were skeptical. We tried lots of things before and none of them worked. But, when we tested the Shape Builder it just perfect for our needs. “',
           name: 'Alexandre Park',
           role: 'Design Manager at',
           team: 'Twitter',
@@ -97,7 +97,7 @@ export default {
         },
         {
           quote:
-            '“ I feel grateful that Simple pushed me to expand my horizons and strive to accomplish more. When we first met Appy, we were skeptical for no reason.“',
+            '“ I feel grateful that Simple pushed me to expand my horizons and strive to accomplish more. When we first met Workspeed, we were skeptical for no reason.“',
           name: 'Dominik Prasad',
           role: 'Backend Lead at',
           team: 'Google',

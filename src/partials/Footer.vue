@@ -176,7 +176,7 @@
           </div>
 
           <!-- Copyrights note -->
-          <div class="text-gray-600 dark:text-gray-400 text-sm mr-4">&copy; 2020 Appy. All rights reserved.</div>
+          <div class="text-gray-600 dark:text-gray-400 text-sm mr-4">&copy; 2020 Workspeed. All rights reserved.</div>
 
         </div>
 
