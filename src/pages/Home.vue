@@ -14,13 +14,13 @@
 
       <!-- Page sections -->
       <HeroHome />
-      <Stats />
-      <Carousel />
-      <Tabs />
+      <!-- <Stats /> -->
       <Process />
+      <Tabs />
+      <Carousel />
       <PricingTables />
-      <TestimonialsBlocks />
-      <FeaturesBlocks />
+      <!-- <TestimonialsBlocks /> -->
+      <!-- <FeaturesBlocks /> -->
       <Cta />
 
     </main>
@@ -35,13 +35,13 @@
 import Header from './../partials/Header.vue'
 import PageIllustration from './../partials/PageIllustration.vue'
 import HeroHome from './../partials/HeroHome.vue'
-import Stats from './../partials/Stats'
+// import Stats from './../partials/Stats'
 import Carousel from './../partials/Carousel'
 import Tabs from './../partials/Tabs'
 import Process from './../partials/Process'
 import PricingTables from './../partials/PricingTables'
-import TestimonialsBlocks from './../partials/TestimonialsBlocks'
-import FeaturesBlocks from './../partials/FeaturesBlocks'
+// import TestimonialsBlocks from './../partials/TestimonialsBlocks'
+// import FeaturesBlocks from './../partials/FeaturesBlocks'
 import Cta from './../partials/Cta'
 import Footer from './../partials/Footer.vue'
 
@@ -51,13 +51,13 @@ export default {
     Header,
     PageIllustration,
     HeroHome,
-    Stats,
+    // Stats,
     Carousel,
     Tabs,
     Process,
     PricingTables,
-    TestimonialsBlocks,
-    FeaturesBlocks,
+    // TestimonialsBlocks,
+    // FeaturesBlocks,
     Cta,
     Footer,
   },

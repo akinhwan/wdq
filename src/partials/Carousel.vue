@@ -6,8 +6,9 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-          <h1 class="h2 font-red-hat-display mb-4">From rough design files, to powerful products</h1>
-          <p class="text-xl text-gray-600 dark:text-gray-400">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+          <h1 class="h2 font-red-hat-display mb-4">Who says work can't be entertaining?</h1>
+          <p class="text-xl text-gray-600 dark:text-gray-400">Use your imagination, it can be for any time-bound activity. Especially one that you're proficient at, and one that is done on a computer.</p>
+          <!-- <p class="text-xl text-gray-600 dark:text-gray-400">Just imagine any work-like process you're good at, that could be conquered like a game?</p> -->
         </div>
 
       </div>
@@ -18,7 +19,7 @@
         <div class="swiper-wrapper">
           <!-- Carousel items -->
           <div class="swiper-slide max-w-lg">
-            <img class="transition-opacity duration-300" :src="require('@/images/carousel-item-01.jpg')" width="540" height="460" alt="Carousel item 01" />
+            <img class="transition-opacity duration-300" src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="540" height="460" alt="Carousel item 01" />
             <div class="absolute inset-0 flex flex-col transition-opacity duration-300 translate-z-0">
               <div class="flex flex-grow">
                 <a class="inline-flex btn-sm text-white bg-teal-500 hover:bg-teal-400 mx-auto self-center" href="#0">Learn more</a>

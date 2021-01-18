@@ -5,8 +5,8 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-red-hat-display mb-4">Build and style every element to perfection</h2>
-          <p class="text-xl text-gray-600 dark:text-gray-400">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+          <h2 class="h2 font-red-hat-display mb-4">Prove you're the fastest</h2>
+          <p class="text-xl text-gray-600 dark:text-gray-400">Record or stream yourself doing it quicker and dethrone the current champion of your niche!</p>
         </div>
 
         <!-- Glow illustration -->
@@ -38,10 +38,11 @@
             </div>
             <!-- Number -->
             <div class="w-12 h-12 rounded-full bg-teal-400 dark:bg-teal-600 dark:bg-opacity-25 flex justify-center items-center text-white dark:text-teal-400 font-medium mb-8 lg:mb-12">1</div>
+            <p class="h4 mb-2">Watch competitors</p>
             <!-- Mobile mockup -->
             <div class="inline-flex relative justify-center items-center">
               <!-- Image inside mockup size: 290x624px (or 580x1248px for Retina devices) -->
-              <img class="absolute" :src="require('@/images/mockup-image-02.jpg')" width="290" height="624" style="max-width: 84.33%;" alt="App screen 02" />
+              <!-- <img class="absolute" :src="require('@/images/mockup-image-02.jpg')" width="290" height="624" style="max-width: 84.33%;" alt="App screen 02" /> -->
               <!-- iPhone mockup -->
               <img class="relative max-w-full mx-auto h-auto pointer-events-none" :src="require('@/images/iphone-mockup.png')" width="344" height="674" alt="iPhone mockup" aria-hidden="true" />
             </div>
@@ -55,10 +56,11 @@
             </div>
             <!-- Number -->
             <div class="w-12 h-12 rounded-full bg-teal-400 dark:bg-teal-600 dark:bg-opacity-25 flex justify-center items-center text-white dark:text-teal-400 font-medium mb-8 lg:mb-12">2</div>
+            <p class="h4 mb-2">Stream your own</p>
             <!-- Mobile mockup -->
             <div class="inline-flex relative justify-center items-center">
               <!-- Image inside mockup size: 290x624px (or 580x1248px for Retina devices) -->
-              <img class="absolute" :src="require('@/images/mockup-image-03.jpg')" width="290" height="624" style="max-width: 84.33%;" alt="App screen 03" />
+              <!-- <img class="absolute" :src="require('@/images/mockup-image-03.jpg')" width="290" height="624" style="max-width: 84.33%;" alt="App screen 03" /> -->
               <!-- iPhone mockup -->
               <img class="relative max-w-full mx-auto h-auto pointer-events-none" :src="require('@/images/iphone-mockup.png')" width="344" height="674" alt="iPhone mockup" aria-hidden="true" />
             </div>
@@ -67,10 +69,11 @@
           <!-- 3rd item -->
           <div class="relative flex flex-col items-center">
             <div class="w-12 h-12 rounded-full bg-teal-400 dark:bg-teal-600 dark:bg-opacity-25 flex justify-center items-center text-white dark:text-teal-400 font-medium mb-8 lg:mb-12">3</div>
+            <p class="h4 mb-2">Set a record</p>
             <!-- Mobile mockup -->
             <div class="inline-flex relative justify-center items-center">
               <!-- Image inside mockup size: 290x624px (or 580x1248px for Retina devices) -->
-              <img class="absolute" :src="require('@/images/mockup-image-04.jpg')" width="290" height="624" style="max-width: 84.33%;" alt="App screen 04" />
+              <!-- <img class="absolute" :src="require('@/images/mockup-image-04.jpg')" width="290" height="624" style="max-width: 84.33%;" alt="App screen 04" /> -->
               <!-- iPhone mockup -->
               <img class="relative max-w-full mx-auto h-auto pointer-events-none" :src="require('@/images/iphone-mockup.png')" width="344" height="674" alt="iPhone mockup" aria-hidden="true" />
             </div>

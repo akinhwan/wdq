@@ -9,7 +9,7 @@
           <!-- Content -->
           <div class="md:col-span-7 lg:col-span-7 mb-8 md:mb-0 text-center md:text-left">
             <h1 class="h1 lg:text-6xl mb-4 font-red-hat-display font-extrabold" data-aos="fade-down">Speedruns of workflows</h1>
-            <p class="text-xl text-gray-600 dark:text-gray-400" data-aos="fade-down" data-aos-delay="150">Can you beat the fastest recorded time for completing <i>your</i> workflow?</p>
+            <p class="text-xl text-gray-600 dark:text-gray-400" data-aos="fade-down" data-aos-delay="150">Can you top the record for completing <i>your</i> workflow?</p>
             <!-- CTA form -->
             
 
