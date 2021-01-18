@@ -1,24 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title><%= htmlWebpackPlugin.options.title %></title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+    <title>Workspeed.run</title>
     <script>
-        if (localStorage.getItem('dark-mode') == 'true' || !('dark-mode' in localStorage)) {
-            document.querySelector('html').classList.add('dark');
-        } else {
-            document.querySelector('html').classList.remove('dark');
-        }        
-    </script>    
+      if (
+        localStorage.getItem('dark-mode') == 'true' ||
+        !('dark-mode' in localStorage)
+      ) {
+        document.querySelector('html').classList.add('dark');
+      } else {
+        document.querySelector('html').classList.remove('dark');
+      }
+    </script>
   </head>
-  <body class="font-inter antialiased bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 tracking-tight">
+  <body
+    class="font-inter antialiased bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 tracking-tight"
+  >
     <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong
+        >We're sorry but Workspeed.run doesn't work properly without JavaScript
+        enabled. Please enable it to continue.</strong
+      >
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
+    <script
+      async
+      data-uid="f0509ae312"
+      src="https://witty-teacher-4996.ck.page/f0509ae312/index.js"
+    ></script>
+    <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
   </body>
 </html>
